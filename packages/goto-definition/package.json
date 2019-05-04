@@ -2,40 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
+        "raw": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
-        "spec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
+        "rawSpec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
+        "spec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/apm-install-dir-117324-4784-ya9qpl.9oa8aor"
+      "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/apm-install-dir-118224-97718-1c6ud4j.9n24wmte29"
     ]
   ],
-  "_from": "../d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
-  "_id": "goto-definition@1.3.3",
+  "_from": "../d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
+  "_id": "goto-definition@1.3.4",
   "_inCache": true,
-  "_installable": true,
   "_location": "/goto-definition",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
+    "raw": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
-    "spec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
+    "rawSpec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
+    "spec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
-  "_shasum": "5e64a546f6d0970add882d297c0aa6ea22ec1c8c",
+  "_resolved": "file:../d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
+  "_shasum": "04fabb56d77592d581b847528c12f1efcd1308d6",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117324-4784-g8gks7.bhwht9y66r/package.tgz",
-  "_where": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/apm-install-dir-117324-4784-ya9qpl.9oa8aor",
+  "_spec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-118224-97718-1mggq44.ijxdxfajor/package.tgz",
+  "_where": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/apm-install-dir-118224-97718-1c6ud4j.9n24wmte29",
   "author": {
     "name": "faceair"
   },
@@ -76,5 +75,5 @@
     "lint": "eslint .",
     "test": "apm test"
   },
-  "version": "1.3.3"
+  "version": "1.3.4"
 }

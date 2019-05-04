@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
+        "raw": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-11871-26899-1o4luje.epyeng66r/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
-        "spec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
+        "rawSpec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-11871-26899-1o4luje.epyeng66r/package.tgz",
+        "spec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-11871-26899-1o4luje.epyeng66r/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/apm-install-dir-117521-45592-rdoidy.htcphf47vi"
+      "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/apm-install-dir-11871-26899-ema6xe.vjvgc766r"
     ]
   ],
-  "_from": "../d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
-  "_id": "language-liquid@0.6.0",
+  "_from": "../d-11871-26899-1o4luje.epyeng66r/package.tgz",
+  "_id": "language-liquid@0.7.0",
   "_inCache": true,
   "_location": "/language-liquid",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
+    "raw": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-11871-26899-1o4luje.epyeng66r/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
-    "spec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
+    "rawSpec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-11871-26899-1o4luje.epyeng66r/package.tgz",
+    "spec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-11871-26899-1o4luje.epyeng66r/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
-  "_shasum": "b5b1bb7f1e33f1ea71638b96f8572d0a893b53d1",
+  "_resolved": "file:../d-11871-26899-1o4luje.epyeng66r/package.tgz",
+  "_shasum": "29544e178bc093fc3134165e5acc3c523df4e9a5",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/d-117521-45592-1qj7s75.vgn57sc3di/package.tgz",
-  "_where": "/private/var/folders/kh/t8br8c6j55ndyxlcn1lmc998_391g1/T/apm-install-dir-117521-45592-rdoidy.htcphf47vi",
+  "_spec": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/d-11871-26899-1o4luje.epyeng66r/package.tgz",
+  "_where": "/private/var/folders/0_/_8l3jkk97l73h5dgskt0ddd81992cf/T/apm-install-dir-11871-26899-ema6xe.vjvgc766r",
   "author": {
     "name": "Kieran Masterton",
     "email": "kieran@88mph.com",
@@ -98,15 +98,5 @@
     "type": "git",
     "url": "git+https://github.com/puranjayjain/language-liquid.git"
   },
-  "version": "0.6.0",
-  "_atomModuleCache": {
-    "version": 1,
-    "dependencies": [],
-    "extensions": {
-      ".json": [
-        "package.json"
-      ]
-    },
-    "folders": []
-  }
+  "version": "0.7.0"
 }

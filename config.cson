@@ -7,9 +7,14 @@
       "linter-eslint"
     ]
     telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
   editor:
-    fontSize: 15
+    fontSize: 12
     showIndentGuide: true
+    tabType: "soft"
   "exception-reporting":
     userId: "f436d694-eec7-3e8a-dcfd-33ea87584618"
   "git-blame":
